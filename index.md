@@ -10,3 +10,5 @@ As Otto always said
 > Haensel und Gretel verirrten sich im Wald. Das gibt es in 100 Variationen
 > Und vor allem die Version von BAP, nee Peter Schilling, nee Heino,
 > nee .... ist die allerbeste.
+
+<img src="http://ais.badische-zeitung.de/piece/02/48/f1/ff/38334975.jpg"/>
