@@ -6,3 +6,7 @@ The page is about a very famous person from the north-western part of Germany, c
 * loves ladies from Bavaria
 * appears in movies
 * performs in TV
+As Otto always said
+> Haensel und Gretel verirrten sich im Wald. Das gibt es in 100 Variationen
+> Und vor allem die Version von BAP, nee Peter Schilling, nee Heino,
+> nee .... ist die allerbeste.
